@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1552464433 source:d:\c\bibliothek betrieb\buchliste.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+
+1552464070 source:d:\c\bibliothek betrieb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"Buchliste.h"
+
+1552402612 d:\c\bibliothek betrieb\buchliste.h
+
+1552500131 source:c:\users\yannis\desktop\bibliothek betrieb new\bibliothek betrieb new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"Buchliste.h"
+
+1552402612 c:\users\yannis\desktop\bibliothek betrieb new\bibliothek betrieb new\buchliste.h
+
+1552508857 source:c:\users\yannis\desktop\bibliothek betrieb new\bibliothek betrieb new\buchliste.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+
+1552639510 source:c:\users\yluithle\desktop\13-03-2019 bibliothek\bibliothek betrieb new\buchliste.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"Buchliste.h"
+
+1552640050 source:c:\users\yluithle\desktop\13-03-2019 bibliothek\bibliothek betrieb new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"Ausleiherliste.h"
+	"Buchliste.h"
+	"DateiManager.h"
+
+1552643474 c:\users\yluithle\desktop\13-03-2019 bibliothek\bibliothek betrieb new\buchliste.h
+	"Ausleiherliste.h"
+
+1552558423 c:\users\yluithle\desktop\13-03-2019 bibliothek\bibliothek betrieb new\filemanager.h
+
+1552643474 source:c:\users\yluithle\desktop\13-03-2019 bibliothek\bibliothek betrieb new\ausleiherliste.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"Ausleiherliste.h"
+
+1552569668 c:\users\yluithle\desktop\13-03-2019 bibliothek\bibliothek betrieb new\dateimanager.h
+	"Buchliste.h"
+
+1552570399 source:c:\users\yluithle\desktop\13-03-2019 bibliothek\bibliothek betrieb new\dateimanager.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"DateiManager.h"
+	"Ausleiherliste.h"
+	"Buchliste.h"
+
+1552643474 c:\users\yluithle\desktop\13-03-2019 bibliothek\bibliothek betrieb new\ausleiherliste.h
+
+1552840054 source:c:\users\yannis\desktop\15-03-2019 bibliothek\15-03-2019 bibliothek\bibliothek betrieb new\ausleiherliste.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"Ausleiherliste.h"
+
+1552849542 c:\users\yannis\desktop\15-03-2019 bibliothek\15-03-2019 bibliothek\bibliothek betrieb new\ausleiherliste.h
+
+1552839567 source:c:\users\yannis\desktop\15-03-2019 bibliothek\15-03-2019 bibliothek\bibliothek betrieb new\buchliste.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"Buchliste.h"
+
+1552840487 c:\users\yannis\desktop\15-03-2019 bibliothek\15-03-2019 bibliothek\bibliothek betrieb new\buchliste.h
+	"Ausleiherliste.h"
+
+1552841885 source:c:\users\yannis\desktop\15-03-2019 bibliothek\15-03-2019 bibliothek\bibliothek betrieb new\dateimanager.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"DateiManager.h"
+	"Ausleiherliste.h"
+	"Buchliste.h"
+
+1552850786 c:\users\yannis\desktop\15-03-2019 bibliothek\15-03-2019 bibliothek\bibliothek betrieb new\dateimanager.h
+	"Buchliste.h"
+
+1552849229 source:c:\users\yannis\desktop\15-03-2019 bibliothek\15-03-2019 bibliothek\bibliothek betrieb new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	"Ausleiherliste.h"
+	"Buchliste.h"
+	"DateiManager.h"
+
